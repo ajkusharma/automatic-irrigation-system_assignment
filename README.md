@@ -16,6 +16,7 @@ testing from POSTMAN for PUT method
 ![Screenshot (95)](https://user-images.githubusercontent.com/47526191/208490775-3de88a57-a04b-413d-8c00-5070a2a0cd91.png)
 
 Screenshot of the data source:
+![Screenshot (100)](https://user-images.githubusercontent.com/47526191/208670242-573d1847-4fde-4ce8-9219-75c35d8d4856.png)
 
 
 
