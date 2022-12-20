@@ -15,6 +15,10 @@ sharing project on GitHUb
 testing from POSTMAN for PUT method 
 ![Screenshot (95)](https://user-images.githubusercontent.com/47526191/208490775-3de88a57-a04b-413d-8c00-5070a2a0cd91.png)
 
+Screenshot of the data source:
+![image](https://user-images.githubusercontent.com/47526191/208663283-7ac6d79f-8ac6-449e-a554-16ebbaae4e87.png)
+
+
 
 
 
